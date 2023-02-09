@@ -1,0 +1,26 @@
+html, body {
+  background: #F9F9F9;
+  color: #000;
+  display: grid;
+  font-family: serif;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+div {
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 65px;
+  font-weight: normal;
+  margin-bottom: 0.2em;
+}
+
+p {
+  font-size: 25px;
+  margin-top: 0;
+}

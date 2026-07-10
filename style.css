@@ -2,7 +2,7 @@ html, body {
   background: #F9F9F9;
   color: #000;
   display: grid;
-  font-family: serif;
+  font-family: "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", "Noto Serif CJK JP", "Noto Serif JP", "MS Mincho", serif;
   height: 100%;
   margin: 0;
   overflow: hidden;

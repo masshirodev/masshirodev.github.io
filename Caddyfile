@@ -1,4 +1,6 @@
 masshiro.pro, www.masshiro.pro {
 	root * /usr/share/caddy
+	@html path / *.html
+	header @html Content-Type "text/html; charset=utf-8"
 	file_server
 }

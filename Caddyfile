@@ -1,0 +1,4 @@
+masshiro.pro, www.masshiro.pro {
+	root * /usr/share/caddy
+	file_server
+}
